@@ -12,4 +12,4 @@ spec:
     metadata:
       creationTimestamp: null
       name: basic-auth
-      namespace: default 
+      namespace: default
