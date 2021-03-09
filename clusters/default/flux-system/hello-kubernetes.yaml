@@ -18,9 +18,6 @@ spec:
     message: This is new one
     image:
       repository: not-exists
-  upgrade:
-      remediation:
-          remediateLastFailure: true
   valuesFrom:
   - kind: ConfigMap
     name: myconfig
